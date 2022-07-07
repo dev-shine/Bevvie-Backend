@@ -24,7 +24,7 @@
     "helmet": "^3.9.0",
     "kue": "^0.11.6",
     "md5": "^2.2.1",
-    "moment": "^2.19.1",
+    "moment": "^2.29.4",
     "mongoose": "^4.13.12",
     "mongoose-paginate": "^5.x",
     "mongoose-seeder": "^1.2.1",
