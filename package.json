@@ -25,7 +25,7 @@
     "kue": "^0.11.6",
     "md5": "^2.2.1",
     "moment": "^2.19.1",
-    "mongoose": "^4.13.12",
+    "mongoose": "^4.13.21",
     "mongoose-paginate": "^5.x",
     "mongoose-seeder": "^1.2.1",
     "morgan": "^1.9.0",
