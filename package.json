@@ -16,7 +16,7 @@
     "cors": "^2.8.4",
     "country-data": "0.0.31",
     "country-language": "^0.1.7",
-    "express": "^4.16.2",
+    "express": "^4.17.3",
     "express-validator": "^4.2.1",
     "firebase": "^4.6.0",
     "firebase-admin": "^5.4.3",
